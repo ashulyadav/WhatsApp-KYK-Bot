@@ -49,15 +49,6 @@ Ancak projeyle veya kod yapısıyla ilgileniyorsanız, gelecekteki geliştirmele
 
 ## Uygulama Önizlemesi (Video/GIF)
 
-GitHub README dosyaları doğrudan video (`.mp4` vb.) oynatmayı desteklemez. En iyi ve en yaygın yöntem, uygulamanızın kısa bir videosunu çekip bunu **animasyonlu bir GIF**'e dönüştürmektir.
-
-Bunu yapmak için:
-1.  Ekran kaydedici bir programla uygulamanızın menü oluşturma, zamanlayıcı kurma ve botun çalışması gibi kısımlarını gösteren kısa bir video çekin.
-2.  **Ezgif.com** gibi "video to gif converter" aramasıyla bulabileceğiniz online siteleri kullanarak videonuzu `.gif` formatına çevirin.
-3.  Oluşturduğunuz `.gif` dosyasını, projenizin ana klasörüne veya `images` gibi bir klasöre ekleyin ve normal bir resim gibi GitHub'a yükleyin.
-
-Aşağıdaki `<-- ... -->` yorum satırlarını silip, parantez `()` içine kendi `.gif` dosyanızın GitHub'daki linkini yapıştırarak önizlemeyi ekleyebilirsiniz.
-
 <p align="center">
    <video src="https://github.com/user-attachments/assets/00c89376-7448-45bc-9ce5-49a5c71cd8b1"> width="700" controls>
       Tarayıcınız video etiketini desteklemiyor.
