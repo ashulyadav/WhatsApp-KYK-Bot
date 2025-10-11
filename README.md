@@ -20,6 +20,8 @@ Bu proje, sıfırdan işlevsel bir Grafiksel Kullanıcı Arayüzü (GUI) oluştu
 
 **Mevcut Durum:** Projenin ana fonksiyonları (arayüz, CSV işlemleri ve WhatsApp otomasyonu) tamamlanmıştır. Bu **v1.0** sürümü, kararlı ve tam işlevsel bir yapıya sahiptir.
 
+- [v1.0 Pre Alpha Sürümünü İndir](https://github.com/SametCirik/WhatsApp-KYK-Bot/releases/tag/v1.0)
+
 ### Sonraki Adımlar (Gelecek Planları)
 
 * **Gelişmiş Hata Yönetimi:** WhatsApp arayüzünde gelecekte olabilecek değişikliklere karşı botu daha dayanıklı hale getirmek.
@@ -66,3 +68,13 @@ Ancak projeyle veya kod yapısıyla ilgileniyorsanız, gelecekteki geliştirmele
       Tarayıcınız video etiketini desteklemiyor.
    </video>
 </p>
+
+---
+
+##  Developer *(-s)*
+
+This project was developed by **[Samet Cırık](https://github.com/SametCirik)**.
+
+<d>
+  <img src="https://komarev.com/ghpvc/?username=SametCirik-Solitaire&label=PROFILE+VIEWS&color=green&style=flat" alt="Profil Görüntüleme Sayısı" />
+</d>
