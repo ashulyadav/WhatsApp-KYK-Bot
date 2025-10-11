@@ -47,10 +47,21 @@ Ancak projeyle veya kod yapısıyla ilgileniyorsanız, gelecekteki geliştirmele
 
 ---
 
-## Uygulama Önizlemesi (Video/GIF)
-
 <p align="center">
    <img width="256" height="256" alt="AppLogo" src="https://github.com/user-attachments/assets/d13d7218-50f4-470e-8560-338c7ff24c6c" />
+</p>
+
+<p align="center">
+   <i>
+      Uygulama İkonu
+   </i>
+</p>
+
+---
+
+## Uygulama Önizlemesi
+
+<p align="center">
    <video src="https://github.com/user-attachments/assets/00c89376-7448-45bc-9ce5-49a5c71cd8b1"> width="700" controls>
       Tarayıcınız video etiketini desteklemiyor.
    </video>
