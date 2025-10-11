@@ -58,5 +58,8 @@ Bunu yapmak için:
 
 Aşağıdaki `<-- ... -->` yorum satırlarını silip, parantez `()` içine kendi `.gif` dosyanızın GitHub'daki linkini yapıştırarak önizlemeyi ekleyebilirsiniz.
 
-https://github.com/user-attachments/assets/00c89376-7448-45bc-9ce5-49a5c71cd8b1
-
+<p align="center">
+   <video src="https://github.com/user-attachments/assets/00c89376-7448-45bc-9ce5-49a5c71cd8b1"> width="700" controls>
+      Tarayıcınız video etiketini desteklemiyor.
+   </video>
+</p>
