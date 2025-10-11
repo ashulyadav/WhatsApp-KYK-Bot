@@ -71,9 +71,9 @@ Ancak projeyle veya kod yapısıyla ilgileniyorsanız, gelecekteki geliştirmele
 
 ---
 
-##  Developer *(-s)*
+##  Geliştirici *(-ler)*
 
-This project was developed by **[Samet Cırık](https://github.com/SametCirik)**.
+Bu proje, **[Samet Cırık](https://github.com/SametCirik)** tarafından geliştirilmiştir.
 
 <d>
   <img src="https://komarev.com/ghpvc/?username=SametCirik-Solitaire&label=PROFILE+VIEWS&color=green&style=flat" alt="Profil Görüntüleme Sayısı" />
