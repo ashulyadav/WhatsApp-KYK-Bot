@@ -339,7 +339,7 @@ public class WhatsappGui extends JFrame
         
         // --- 3. Otomasyon Uyarısı Ekleme ---
         sb.append("\n\n---\n");
-        sb.append("Bu bir otomasyon mesajıdır. Daha fazla bilgi için https://github.com/SametCirik/KYK-Bot adresine göz atın.\n");
+        sb.append("Bu bir otomasyon mesajıdır. Daha fazla bilgi için https://github.com/SametCirik/WhatsApp-KYK-Bot adresine göz atın.\n");
 
         return sb.toString();
     }
