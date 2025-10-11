@@ -58,7 +58,5 @@ Bunu yapmak için:
 
 Aşağıdaki `<-- ... -->` yorum satırlarını silip, parantez `()` içine kendi `.gif` dosyanızın GitHub'daki linkini yapıştırarak önizlemeyi ekleyebilirsiniz.
 
+https://github.com/user-attachments/assets/00c89376-7448-45bc-9ce5-49a5c71cd8b1
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/a87534e8-3a05-4a99-94c0-806046c6ba61" alt="Uygulama Önizlemesi" width="700"/>
-</p>
