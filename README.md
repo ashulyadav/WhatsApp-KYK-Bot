@@ -20,7 +20,7 @@ Bu proje, sıfırdan işlevsel bir Grafiksel Kullanıcı Arayüzü (GUI) oluştu
 
 **Mevcut Durum:** Projenin ana fonksiyonları (arayüz, CSV işlemleri ve WhatsApp otomasyonu) tamamlanmıştır. Bu **v1.0** sürümü, kararlı ve tam işlevsel bir yapıya sahiptir.
 
-- [v1.0 Pre-Alpha Sürümünü İndir](https://github.com/SametCirik/WhatsApp-KYK-Bot/releases/tag/v1.0)
+- Pre-Alpha Sürümü (v1.0) İndirmek için [buraya](https://github.com/SametCirik/WhatsApp-KYK-Bot/releases/tag/v1.0) tıklayın.
 
 ### Sonraki Adımlar (Gelecek Planları)
 
