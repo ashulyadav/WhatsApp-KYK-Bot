@@ -68,7 +68,7 @@ Ancak projeyle veya kod yapısıyla ilgileniyorsanız, gelecekteki geliştirmele
    <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/1a12150c-c26a-4de9-9fc0-d17524dfab83" />
    <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b908b38c-9f9c-499d-8782-770cf3e2f310" />
    <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d8c6b7cb-4f18-43be-977e-84815b83b522" />
-   <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/cfea8c8a-65eb-4801-ba9b-af4575240a7b" />
+   <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/72df03eb-8876-48ce-b0e7-3abb0609b95d" />
    <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f23dd470-5784-4434-9305-48a0c56bbba4" />
    <video src="https://github.com/user-attachments/assets/00c89376-7448-45bc-9ce5-49a5c71cd8b1"> width="700" controls>
       Tarayıcınız video etiketini desteklemiyor.
