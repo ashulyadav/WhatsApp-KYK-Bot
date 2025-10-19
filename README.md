@@ -80,7 +80,3 @@ Ancak projeyle veya kod yapısıyla ilgileniyorsanız, gelecekteki geliştirmele
 ##  Geliştirici *(-ler)*
 
 Bu proje, **[Samet Cırık](https://github.com/SametCirik)** tarafından geliştirilmiştir.
-
-<d>
-  <img src="https://komarev.com/ghpvc/?username=SametCirik-Solitaire&label=PROFILE+VIEWS&color=green&style=flat" alt="Profil Görüntüleme Sayısı" />
-</d>
